@@ -19,11 +19,10 @@ Just guy :D
 ### 📈 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoziliks&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoziliks&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yoziliks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=yoziliks&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yoziliks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ---
